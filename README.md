@@ -4,12 +4,9 @@ Here, I just show two simple plots.
 
 Plot #1:
 I make this plot to find the change in percent of jail and prison population to total population across different race categories during the 1990-2015. Although the percent of black jail and prison population were well above that of other race categories, there are slight decrease in percent of black jail population and no obvious change in percent of black prison population. Percent of latino jail population decreased significantly. However, the percent of native American jail (prison) population and white jail (prison) population increased significantly during the 1990-2015. 
- 
-  
+
 Plot #2: 
+I make this plot to figure out the change in frequency of ten crime events across nine census regions during the past three decades (1980-1992, 1994-2014). We can see that most crime events appeared less frequently during last three decades (with large negative slope), especially the property crime in Pacific, Middle Atlantic, and East North Central areas. 
+The attribute "division" (census division) includes 9 categories: East North Central, East South Central, Middle Atlantic, Mountain, New England, Pacific, South Atlantic, West North Central, and West South Central. And the 10 crime types include violent crime, property crime, murder crime, rape crime, robbery crime, agr_assault crime, burglary crime, larceny crime, mv_theft crime, and arson crime.
 
-
-
-
-
-I think there are big exploration research space in this <incarceration dataset>. There are many implicit disciplines that could be found from this dataset. Besides, the reasons or potential explanations for the summaried phenomenon also deserve our further exploration. The possible answer for the incarceration trends could be the state or county-level GDP, the economic crisis, the status of president campaign, unemployement rate, level of education, even the climate change like the appearance of more frequent extreme climate event more or less. If I can be enrolled in this data science program, I want to delve further into this dataset and explore the correlated events. 
+I think there are big exploration and research space in this <incarceration dataset>. There are many implicit disciplines that could be found from this dataset. This county-level statistics also enable us to explore the state-level jail and prison population performance from a finer geographical unite. For example, if the jail and prison population in some counties had greater change than that of other counties in a state during the same period, we could want to attribute such difference to the county officials-that decide how, when and whether communities use incarceration. The appearance of turning point of change in percent of jail and prison population is also an interesting and meaningful phenomenon to be discovered. Besides, the potential explanations for the summaried phenomenon undoubtedly deserve our further exploration. The possible answer for the incarceration trends could be the state or county-level GDP, the economic crisis, the status of president campaign, unemployement rate, divorce rate, level of education, even the climate change like the appearance of more frequent extreme climate event more or less. If I can be enrolled in this data science program, I want to delve further into this dataset and explore the correlated events. 
