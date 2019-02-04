@@ -2,13 +2,13 @@
 This is a preliminary analysis on incarceration trends dataset. 
 Here, I just show two simple plots. 
 
-Plot #1::
-The change in jail and prison population amount with different races. There are six color corresponding to six race categories that are summaried in the <incarceration dataset>. The dark color points to prison and the light color represents the jail results. As the plot shows, the jail population of <> increased during the past three decades. 
-  
-  
+Plot #1:
+I make this plot to find the change in percent of jail and prison population to total population across different race categories during the 1990-2015. Although the percent of black jail and prison population were well above that of other race categories, there are slight decrease in percent of black jail population and no obvious change in percent of black prison population. Percent of latino jail population decreased significantly. However, the percent of native American jail (prison) population and white jail (prison) population increased significantly during the 1990-2015. 
+ 
   
 Plot #2: 
-I want to analyze the change in population amount under different races that cause crime events. Here the crime events include 
+
+
 
 
 
